@@ -122,6 +122,7 @@ color:white;
 }
 .category .category-content .cateogry-card img{
   width: 335px;
+ border: 1px solid #3e72d8;
 }
 
 .category .category-content .cateogry-card .category-info p{
