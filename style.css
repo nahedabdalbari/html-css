@@ -10,7 +10,7 @@ height:60px;
 /* width: 100vw; */
 /* background-color:#FFFFFF ; */
 background-color: #1B48B5;
-border-bottom: 1px solid black;
+border-bottom: 1px solid white;
 color:white;
 }
 
@@ -252,7 +252,8 @@ color:white;
     gap: 75px;
     align-items: center;
     margin-top: 129px;
-    background-color: #064FDC
+    background-color: #064FDC;
+ height: 100vh;
 }
 .test-content{
     display: flex;
