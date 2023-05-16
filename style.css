@@ -346,7 +346,7 @@ blockquote::before{
 }
 .footer-container{
     background: #2666e0;
-    height: 60vh;
+    height: 30vh;
     display: flex;
     justify-content: space-around;
     Color:White;
